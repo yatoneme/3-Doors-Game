@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\vsvs\\game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DABBFD0A-AE7D-493F-AED1-CC94B7A85F38}|opengl1.vcxproj|F:\\vsvs\\game\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DABBFD0A-AE7D-493F-AED1-CC94B7A85F38}|opengl1.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "F:\\vsvs\\game\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "F:\\vsvs\\game\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T18:31:37.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
